@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LogitechForm", "LogitechForm\LogitechForm.vbproj", "{E31262DB-577A-48F6-BDCC-73763EDC27F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31262DB-577A-48F6-BDCC-73763EDC27F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31262DB-577A-48F6-BDCC-73763EDC27F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31262DB-577A-48F6-BDCC-73763EDC27F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31262DB-577A-48F6-BDCC-73763EDC27F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D6B7D4C-98B2-463A-B04F-CD15089A9181}
+	EndGlobalSection
+EndGlobal

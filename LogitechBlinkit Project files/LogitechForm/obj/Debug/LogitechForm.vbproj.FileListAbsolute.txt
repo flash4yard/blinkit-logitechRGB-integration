@@ -1,0 +1,12 @@
+X:\LogitechForm\LogitechForm\bin\Debug\LogitechForm.exe.config
+X:\LogitechForm\LogitechForm\bin\Debug\LogitechForm.exe
+X:\LogitechForm\LogitechForm\bin\Debug\LogitechForm.pdb
+X:\LogitechForm\LogitechForm\bin\Debug\LogitechForm.xml
+X:\LogitechForm\LogitechForm\obj\Debug\LogitechForm.vbprojResolveAssemblyReference.cache
+X:\LogitechForm\LogitechForm\obj\Debug\WindowsApp1.Form1.resources
+X:\LogitechForm\LogitechForm\obj\Debug\WindowsApp1.Resources.resources
+X:\LogitechForm\LogitechForm\obj\Debug\LogitechForm.vbproj.GenerateResource.cache
+X:\LogitechForm\LogitechForm\obj\Debug\LogitechForm.vbproj.CoreCompileInputs.cache
+X:\LogitechForm\LogitechForm\obj\Debug\LogitechForm.exe
+X:\LogitechForm\LogitechForm\obj\Debug\LogitechForm.xml
+X:\LogitechForm\LogitechForm\obj\Debug\LogitechForm.pdb
